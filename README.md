@@ -1,4 +1,4 @@
-# Calculator
+# Calculator JS
 
    This workshop is designed to help you build a simple calculator using JavaScript, HTML, and CSS. The calculator supports basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
